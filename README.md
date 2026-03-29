@@ -1,5 +1,7 @@
 # Timeshift
 
+![demo](https://github.com/user-attachments/assets/6bf44dec-c085-4b01-aa21-3657123a4106)
+
 A Chrome extension that adds rewind functionality to Twitch live streams. Jump to the current broadcast's VOD to scrub backward, then return to live with a single click.
 
 ## How it works
